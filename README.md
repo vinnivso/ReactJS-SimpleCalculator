@@ -1,7 +1,5 @@
-# ReactJS-SimpleCalculator
-Repositório criado para uma simples aplicação utilizando ReactJS
-
-LAYOUT: Simple Calculator
+# SimpleCalculator
+Simple Calculator - ReactJS Front End
 
 # SIMPLE CALCULATOR
 
