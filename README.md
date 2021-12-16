@@ -1,4 +1,4 @@
-# challenge-simplecalculator
+# challenge-simplecalculatorreact
 Simple Calculator - ReactJS Front End
 
 # SIMPLE CALCULATOR
