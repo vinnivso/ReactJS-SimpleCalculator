@@ -1,4 +1,4 @@
-# reactjs-simplecalculator
+# frontend-simplecalculator-reactjs
 Simple Calculator - ReactJS Front End
 
 # SIMPLE CALCULATOR
